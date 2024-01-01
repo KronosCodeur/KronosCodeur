@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 I’m @KronosCodeur a Fullstack Mobile developer
-- 🗺️ I am Togolese 🇹🇬
+- 🗺️ I am Togolese :togo:
 - 🖥️ My Stack : [Flutter, Symfony, ASP.net, Blazor]
 - 🔭 I’m currently working on a Ecommerce Mobile App
 - 🌱 I’m currently learning Web App building with ASP.net & Blazor
