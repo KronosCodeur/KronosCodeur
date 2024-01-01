@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 👋 I’m @KronosCodeur a Fullstack Mobile developer
+- 🗺️ I am Togolese 🇹🇬
 - 🖥️ My Stack : [Flutter, Symfony, ASP.net, Blazor]
 - 🔭 I’m currently working on a Ecommerce Mobile App
 - 🌱 I’m currently learning Web App building with ASP.net & Blazor
@@ -9,4 +10,4 @@
 - 💬 Ask me about Mobile App developement with Flutter & all on topics like clean Code, Clean Architecture or CI with Github.
 - 📫 How to reach me: LinkedIn{https://www.linkedin.com/in/kronos-codeur} or Instagram{https://www.instagram.com/kronos_codeur?igsh=OHZtM2JheTBnZm8w}
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Technology, Gaming, Basketball
+- ⚡ Fun fact: Technology💻, Gaming🎮, Basketball🏀
