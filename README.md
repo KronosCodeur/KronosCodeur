@@ -11,4 +11,4 @@
 - 📫 How to reach me: LinkedIn{https://www.linkedin.com/in/kronos-codeur } or Instagram{https://www.instagram.com/kronos_codeur?igsh=OHZtM2JheTBnZm8w }
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Technology💻, Gaming🎮, Basketball🏀
-- <a href="https://user-badge.committers.top/togo/KronosCodeur"> <img src="https://user-badge.committers.top/togo/KronosCodeur.svg"/></a>
+<a href="https://user-badge.committers.top/togo/KronosCodeur"> <img src="https://user-badge.committers.top/togo/KronosCodeur.svg"/></a>
