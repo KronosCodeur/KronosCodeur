@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on Flutter Mobile App project or .Net Web App projects that can have a positive impact on my community.
 - 🤔 I’m looking for help with CD with with Azure Cloud;
 - 💬 Ask me about Mobile App developement with Flutter & all on topics like clean Code, Clean Architecture or CI with Github.
-- 📫 How to reach me: LinkedIn{https://www.linkedin.com/in/kronos-codeur } or Instagram{https://www.instagram.com/kronos_codeur?igsh=OHZtM2JheTBnZm8w }
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Technology💻, Gaming🎮, Basketball🏀
 <p align="left">
