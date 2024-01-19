@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 I’m @KronosCodeur a Fullstack Mobile developer
 - 🗺️ I am Togolese :togo:
-- 🖥️ My Stack : [Flutter, Symfony, ASP.net, Blazor]
+- 🖥️ My Stack : [Flutter, Anugular Symfony, ASP.net, Blazor]
 - 🔭 I’m currently working on a Ecommerce Mobile App
 - 🌱 I’m currently learning Web App building with ASP.net & Blazor
 - 👀 I’m interested in Google Technos like Flutter, Firebase and GCP && Microsoft Technos like ASP.Net, Blazor, Github and Azure && All Jetbrains Tools especially IntelliJ IDEA, Rider, Phpstorm and Space
