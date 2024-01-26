@@ -7,7 +7,7 @@
 - 👀 I’m interested in Google Technos like Flutter, Firebase and GCP && Microsoft Technos like ASP.Net, Blazor, Github and Azure && All Jetbrains Tools especially IntelliJ IDEA, Rider, Phpstorm and Space
 - 👯 I’m looking to collaborate on Flutter Mobile App project or .Net Web App projects that can have a positive impact on my community.
 - 🤔 I’m looking for help with CD with Azure Cloud;
-- 💬 Ask me about Mobile App developement with Flutter & all on topics like clean Code, Clean Architecture or CI with Github.
+- 💬 Ask me about Mobile App developement with Flutter & all on topics like clean Code, Clean Architecture or CI/CD with Github.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Technology💻, Gaming🎮, Basketball🏀
 <p align="left">
