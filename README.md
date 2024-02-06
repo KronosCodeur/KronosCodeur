@@ -180,5 +180,5 @@
 </p>
 <p> <img with="100%" align="center" height="auto" src="https://github-readme-stats.vercel.app/api?username=KronosCodeur&show_icons=true&theme=transparent"/></p>
 <p>
-<img with="100%" align="center" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KronosCodeur&hide=HTML,CSS,CMake,Twig&langs_count=5&layout=compact&theme=transparent"/>
+<img with="100%" align="center" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KronosCodeur&size_weight=0.75&count_weight=0.25&hide=HTML,CSS,CMake,Twig&langs_count=5&layout=compact&theme=transparent"/>
 </p>
