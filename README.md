@@ -182,3 +182,6 @@
 <p>
 <img with="100%" align="center" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KronosCodeur&layout=donut&theme=transparent&langs_count=6"/>
 </p>
+<p>
+<img with="100%" align="center" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KronosCodeur&hide=HTML,CSS,C++,CMake,Twig&langs_count=6&layout=compact&theme=transparent"/>
+</p>
