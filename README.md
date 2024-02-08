@@ -1,3 +1,5 @@
+
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 ### Hi there 👋
 - 👋 I’m @KronosCodeur a Fullstack Mobile developer
 - 🗺️ I am Togolese :togo:
@@ -18,6 +20,7 @@
 <a href="https://linkedin.com/in/kronos-codeur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bienvenu-agbavon" height="30" width="40" /></a>
 <a href="https://instagram.com/_kronos_codeur_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noir__meilleur" height="30" width="40" /></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KronosCodeur&label=Profile%20views&color=0e75b6&style=flat" alt="KronosCodeur" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -181,4 +184,7 @@
 <p> <img with="100%" align="center" height="auto" src="https://github-readme-stats.vercel.app/api?username=KronosCodeur&show_icons=true&theme=transparent"/></p>
 <p>
 <img with="100%" align="center" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KronosCodeur&size_weight=0.75&count_weight=0.25&hide=HTML,CSS,CMake,Twig&langs_count=5&layout=compact&theme=transparent"/>
+</p>
+<p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KronosCodeur&theme=transparent" alt="KronosCodeur" /></p>
 </p>
