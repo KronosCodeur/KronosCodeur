@@ -12,7 +12,9 @@
 - 💬 Ask me about Mobile App developement with Flutter & all on topics like clean Code, Clean Architecture or CI/CD with Github.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Technology💻, Gaming🎮, Basketball🏀
-- <img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
+## Visiteurs
+<img src="https://profile-counter.glitch.me/KronosCodeur/count.svg" />
+`ajouté le 20/02/2024`
 <p align="left">
 <a href="https://user-badge.committers.top/togo/KronosCodeur"> <img src="https://user-badge.committers.top/togo/KronosCodeur.svg"/></a>
 <h3 align="left">Connect with me:</h3>
