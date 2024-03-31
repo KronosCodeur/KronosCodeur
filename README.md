@@ -184,7 +184,7 @@
 </p>
 <p> <img with="100%" align="center" height="auto" src="https://github-readme-stats.vercel.app/api?username=KronosCodeur&show_icons=true&theme=transparent"/></p>
 <p>
-<img with="100%" align="center" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KronosCodeur&size_weight=0.75&count_weight=0.25&hide=CSS,CMake,Twig&langs_count=6&layout=compact&theme=transparent"/>
+<img with="100%" align="center" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KronosCodeur&hide=CSS,CMake,Twig&langs_count=6&layout=compact&theme=transparent"/>
 </p>
 <p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KronosCodeur&theme=transparent" alt="KronosCodeur" /></p>
