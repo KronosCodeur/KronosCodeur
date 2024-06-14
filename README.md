@@ -189,3 +189,11 @@
 <p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KronosCodeur&theme=transparent" alt="KronosCodeur" /></p>
 </p>
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KronosCodeur&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=KronosCodeur&icon=0&color=0)](https://visitcount.itsvg.in)
