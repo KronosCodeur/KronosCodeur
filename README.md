@@ -12,9 +12,10 @@
 - 💬 Ask me about Mobile App developement with Flutter & all on topics like clean Code, Clean Architecture or CI/CD with Github.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Technology💻, Gaming🎮, Basketball🏀
+<h3 align="left">Github Top Commiters Togo Rank:</h3>
 
-<p align="left">
-<a href="https://user-badge.committers.top/togo/KronosCodeur"> <img src="https://user-badge.committers.top/togo/KronosCodeur.svg"/></a>
+[![committers.top badge](https://user-badge.committers.top/togo_private/KronosCodeur.svg)](https://user-badge.committers.top/togo_private/KronosCodeur)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kronoscodeur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bienvenuelisis" height="30" width="40" /></a>
