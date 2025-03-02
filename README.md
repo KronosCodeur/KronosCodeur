@@ -194,6 +194,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KronosCodeur&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+![graphique d'activité github de Kronos Codeur](https://github-readme-activity-graph.vercel.app/graph?username=KronosCodeur&theme=github-compact)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
